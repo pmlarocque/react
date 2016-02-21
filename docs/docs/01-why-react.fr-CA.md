@@ -26,4 +26,4 @@ React ||défis|| plusieurs idées préconcue, et à première vue, certaines id�
 
 ## En apprendre plus
 
-Vous pouvez en appprendre plus a propos des motivations derrière création de React dans [cet article](/react/blog/2013/06/05/why-react.html).
+Vous pouvez en appprendre plus à propos des motivations derrière création de React dans [cet article](/react/blog/2013/06/05/why-react.html).
